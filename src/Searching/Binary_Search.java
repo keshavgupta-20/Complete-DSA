@@ -24,4 +24,5 @@ public class Binary_Search {
         System.out.println(result);
 
     }
+
 }
